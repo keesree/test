@@ -24,7 +24,7 @@ public class Main {
 	
 	
 	public static void addAppliance() 
-	{
+	{ 
 		Scanner scan; 
 		scan = new Scanner(System.in);
 		while(true) {
